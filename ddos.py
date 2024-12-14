@@ -1,3 +1,12 @@
+
+#      .-""-.
+#    .'  o.o  `.  
+#  ./  Lang2i  \.  
+# :               :
+#|   _ _ _ _ _   |  
+# \  /       \  /
+#  `.         .'
+#    `-...-
 import time
 import socket
 import os
